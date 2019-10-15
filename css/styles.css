@@ -1,9 +1,14 @@
 body {
-  font-size: 20px;
-  color: #E61B63;
-  background-color: #1BCEE6;
+  font-size: 30px;
+  background-image: url("https://i.ytimg.com/vi/wbxGZNo-q5A/maxresdefault.jpg");
+  color: red;
 }
 
 h1{
   line-height: 0px;
+  text-align: center;
+}
+
+img {
+  border-radius: 20px;
 }
