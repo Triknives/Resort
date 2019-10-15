@@ -3,3 +3,7 @@ body {
   color: #E61B63;
   background-color: #1BCEE6;
 }
+
+h1{
+  line-height: 0px;
+}
